@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47750244347",
+    "project_id": "cmsc23-b2l-auth",
+    "storage_bucket": "cmsc23-b2l-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47750244347:android:62c58fce3b7ba201da8d5e",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47750244347-96gagcf4cahgm1pohv9fo8q0j5h6tlk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvowPa5d5xXxRCG95kPMzPNxtj74jDgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47750244347-96gagcf4cahgm1pohv9fo8q0j5h6tlk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
